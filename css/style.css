@@ -31,7 +31,7 @@ button a{
     display: none;
 }
 .bgIMg{
-    animation: animate 5s infinite ;
+    animation: animate 10s infinite ;
     
     background-image: url("../images/1.jpg");
     height: 100vh;
